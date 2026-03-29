@@ -30,7 +30,7 @@ output: Stores the trained model and training loss plots
 pyimagesearch: \
 config.py: Stores the parameters of the code, initial settings and the configuration\
 dataset.py: Stores the definition of the Dataset class(defined by ourselves)\
-model.py: Stores the structure/definition of the model\
+model.py: Stores the structure/definition of the model
 
 train.py: training codes
 
