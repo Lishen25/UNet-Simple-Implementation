@@ -6,17 +6,17 @@ a UNet for a given dataset
 
 # THE STRUCTURE OF THIS PROJECT
 ```text
-.\
-├── dataset\
-│   ├── test\
-│   └── train\
-├── output\
-├── prediction.py\
-├── pyimagesearch\
-│   ├── config.py\
-│   ├── dataset.py\
-│   └── model.py\
-├── show_val_result.py\
+.
+├── dataset
+│   ├── test
+│   └── train
+├── output
+├── prediction.py
+├── pyimagesearch
+│   ├── config.py
+│   ├── dataset.py
+│   └── model.py
+├── show_val_result.py
 └── train.py
 ```
 
